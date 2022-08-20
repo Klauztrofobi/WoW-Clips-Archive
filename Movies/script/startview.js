@@ -2,7 +2,7 @@ function startpage() {
     let html = /*html*/`
     <Center>
     <p>WoW PvP Clips</p>
-    <img src="/Movies/Bilder/Bilde.jpg"style="width:900px;height:506px;">
+    <img src="/WoW-Clips-Archive/Movies/Bilder/Bilde.jpg"style="width:900px;height:506px;">
     <br><br>
     <input type="button" onClick="startpage()" value="Home" formtarget="_blank"><br>
     <input type="button" onClick="RvR()" value="Rogue Vs Rogue" formtarget="_blank"><br>
