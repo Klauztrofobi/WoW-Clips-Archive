@@ -3,7 +3,6 @@
 function Muti() {
     let html = /*html*/`
     <center>
-    <p></p>
     <p>Mutilate</p>
     <iframe src="https://streamable.com/e/pxvpvx" width="900" height="506" frameborder="0" allowfullscreen></iframe>
     <br><br>
@@ -23,7 +22,6 @@ function Muti() {
 function RvR() {
     let html = /*html*/`
     <center>
-    <p></p>
     <p>Rogue Vs Rogue</p>
     <iframe src="https://streamable.com/e/3pxdz8" width="900" height="506" frameborder="0" allowfullscreen></iframe>
     <br><br>
@@ -43,7 +41,6 @@ function RvR() {
 function RvR2() {
     let html = /*html*/`
     <center>
-    <p></p>
     <p>Rogue Vs Rogue 2</p>
     <iframe src="https://streamable.com/e/c0hi4b" width="900" height="506" frameborder="0" allowfullscreen></iframe>
     <br><br>
@@ -65,7 +62,6 @@ function RvR2() {
 function RvSP() {
     let html = /*html*/`
     <center>
-    <p></p>
     <p>Rogue Vs Shadow Priest (Lost)</p>
     <iframe src="https://streamable.com/e/i9wqkv" width="900" height="506" frameborder="0" allowfullscreen></iframe>
     <br><br>
@@ -82,7 +78,6 @@ function RvSP() {
 function pvp70() {
     let html = /*html*/`
     <center>
-    <p></p>
     <p>Rogue Vs Warrior + Warlock</p>
     <iframe src="https://streamable.com/e/tpcvg5" width="900" height="506" frameborder="0" allowfullscreen></iframe>
     <br><br>
