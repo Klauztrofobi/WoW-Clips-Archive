@@ -1,7 +1,6 @@
 function startpage() {
     let html = /*html*/`
     <Center>
-    <p></p>
     <p>WoW PvP Clips</p>
     <img src="/Movies/Bilder/Bilde.jpg"style="width:900px;height:506px;">
     <br><br>
